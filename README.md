@@ -10,6 +10,9 @@ Give the following permissions on the AndroidManifest.xml file:
 
 The finished app apk file is also given for reference.
 
+# Screenshots
+![SplashScreen](ss.png)
+
 # Credits
 [Create a Music Player on Android](https://code.tutsplus.com/tutorials/create-a-music-player-on-android-project-setup--mobile-22764)
 
