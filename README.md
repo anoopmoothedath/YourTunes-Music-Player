@@ -11,7 +11,7 @@ Give the following permissions on the AndroidManifest.xml file:
 The finished app apk file is also given for reference.
 
 # Screenshots
- <img width="216" height="432" src="ss.png">  <img width="216" height="432" src="ss2.png">  <img width="216" height="432" src="ss3.png">
+ <img width="216" height="432" src="ss.png">       <img width="216" height="432" src="ss2.png">       <img width="216" height="432" src="ss3.png">
 
 # Credits
 [Create a Music Player on Android](https://code.tutsplus.com/tutorials/create-a-music-player-on-android-project-setup--mobile-22764)
