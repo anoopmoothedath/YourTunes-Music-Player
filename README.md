@@ -3,11 +3,10 @@ An android music player app. This application reads the songs from the device st
 
 Give the following permissions on the AndroidManifest.xml file:
 
-+ asdasdasd<uses-permission android:name="android.permission.WAKE_LOCK"/>
-* <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-* <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-* <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-* <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
++ android.permission.WAKE_LOCK
+* android.permission.READ_EXTERNAL_STORAGE
++ android.permission.ACCESS_NOTIFICATION_POLICY
+* android.permission.FOREGROUND_SERVICE
 
 The finished app apk file is also given for reference.
 
