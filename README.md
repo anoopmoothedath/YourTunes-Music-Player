@@ -5,3 +5,5 @@ The finished app apk file is also given for reference.
 
 # Credits
 [Create a Music Player on Android](https://code.tutsplus.com/tutorials/create-a-music-player-on-android-project-setup--mobile-22764)
+[Media Player](https://developer.android.com/guide/topics/media/mediaplayer)
+Fonts used : [SlateforOnePlus](https://drive.google.com/drive/u/0/folders/0B9UzADWnkrLHM0UtZWZTa0poTTA) 
