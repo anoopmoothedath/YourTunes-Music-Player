@@ -11,6 +11,7 @@ Give the following permissions on the AndroidManifest.xml file:
 The finished app apk file is also given for reference.
 
 # Screenshots
+  <img width="216" height="432" src="ss.png">
 ![SplashScreen](ss.png)
 
 # Credits
