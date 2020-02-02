@@ -3,5 +3,5 @@ An android music player app. This application reads the songs from the device st
 
 The finished app apk file is also given for reference.
 
-#Credits
+# Credits
 [Create a Music Player on Android](https://code.tutsplus.com/tutorials/create-a-music-player-on-android-project-setup--mobile-22764)
