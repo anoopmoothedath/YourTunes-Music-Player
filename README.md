@@ -3,7 +3,7 @@ An android music player app. This application reads the songs from the device st
 
 Give the following permissions on the AndroidManifest.xml file:
 
-+ <uses-permission android:name="android.permission.WAKE_LOCK"/>
++ asdasdasd<uses-permission android:name="android.permission.WAKE_LOCK"/>
 * <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 * <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 * <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
