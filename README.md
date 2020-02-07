@@ -18,4 +18,4 @@ The finished app apk file is also given for reference.
 
 [Media Player](https://developer.android.com/guide/topics/media/mediaplayer)
 
-Fonts used : [SlateforOnePlus](https://drive.google.com/drive/u/0/folders/0B9UzADWnkrLHM0UtZWZTa0poTTA) 
+Fonts used : [SlateforOnePlus](https://drive.google.com/drive/u/0/folders/0B9UzADWnkrLHM0UtZWZTa0poTTA), [Pacifico](https://fonts.google.com/specimen/Pacifico?selection.family=Pacifico)
